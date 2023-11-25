@@ -242,8 +242,3 @@ fclose(input);
 
 
 
-
-
-
-
-
